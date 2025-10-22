@@ -1,8 +1,8 @@
-# SmartBankDashboard
+# Smart Bank Dashboard
 
-A simple **Java-based banking dashboard** built using **Swing** and **FlatLaf**.  
+**SmartBankDashboard** is a **Java-based desktop banking application** designed to simulate basic banking operations in a simple, interactive, and visually appealing way. Built using **Java Swing** and **FlatLaf**, this project demonstrates modern UI design concepts for desktop applications while providing practical banking functionality.
+
 This program allows users to:
-
 - Deposit money
 - Withdraw money
 - Check current balance
